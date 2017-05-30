@@ -1,0 +1,26 @@
+{
+  "name": "@archei_shakinko/packagetest",
+  "version": "2.1.1",
+  "description": "test of packaging",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/archishakinko/packagetest.git"
+  },
+  "keywords": [
+    "git"
+  ],
+  "author": "archei_shakinko",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/archishakinko/packagetest/issues"
+  },
+  "homepage": "https://github.com/archishakinko/packagetest#readme",
+  "dependencies": {
+    "bluebird": "^3.5.0",
+    "needle": "^1.6.0"
+  }
+}
